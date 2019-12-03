@@ -1,0 +1,1 @@
+C:\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Release\TestMitarbeiterLogic.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\obj\Debug\TestMitarbeiterLogic.csprojResolveAssemblyReference.cache
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\TestProjektNT.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\TestProjektNT.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\Ninject.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\MitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\Debug\TestMitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\obj\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\obj\Debug\TestMitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Debug\TestMitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.csprojResolveAssemblyReference.cache
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Binary\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Binary\Debug\TestMitarbeiterLogic.pdb
+C:\Mitarbeiterverwaltung\Binary\Debug\TestMitarbeiterLogic.dll
+C:\Mitarbeiterverwaltung\Binary\Debug\TestMitarbeiterLogic.pdb
+C:\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.csprojResolveAssemblyReference.cache
+C:\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.dll
+C:\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\Binary\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\Binary\Debug\TestMitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.csprojResolveAssemblyReference.cache
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\Debug\TestMitarbeiterLogic.pdb

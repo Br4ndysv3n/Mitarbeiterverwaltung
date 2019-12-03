@@ -1,0 +1,10 @@
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\ProjektNTGUI.exe
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\ProjektNTGUI.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\ProjektNTGUI.FormVerwaltung.resources
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\ProjektNTGUI.Properties.Resources.resources
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\ProjektNTGUI.csproj.GenerateResource.Cache
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\ProjektNTGUI.exe
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\ProjektNTGUI.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\Ninject.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\MitarbeiterLogic.pdb

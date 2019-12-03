@@ -1,0 +1,21 @@
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\MitarbeiterWinForms.csproj.GenerateResource.Cache
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\ProjektNTGUI.exe
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\ProjektNTGUI.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\Ninject.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\bin\Debug\MitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\MitarbeiterWinForms.csprojResolveAssemblyReference.cache
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\MITARBEITER.GUI.FormVerwaltung.resources
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\MITARBEITER.GUI.Properties.Resources.resources
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\Debug\Mitarbeiterverwaltung.exe
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\Debug\Mitarbeiterverwaltung.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\Mitarbeiterverwaltung.exe
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNTGUI\obj\x86\Debug\Mitarbeiterverwaltung.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Debug\Mitarbeiterverwaltung.exe
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Debug\Mitarbeiterverwaltung.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Debug\MitarbeiterWinForms.csprojResolveAssemblyReference.cache
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Debug\MITARBEITER.GUI.FormVerwaltung.resources
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Debug\MITARBEITER.GUI.Properties.Resources.resources
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Debug\MitarbeiterWinForms.csproj.GenerateResource.Cache
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Debug\Mitarbeiterverwaltung.exe
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Debug\Mitarbeiterverwaltung.pdb

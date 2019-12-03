@@ -1,0 +1,4 @@
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNT\bin\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNT\bin\Debug\MitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNT\obj\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\ProjektNT\obj\Debug\MitarbeiterLogic.pdb

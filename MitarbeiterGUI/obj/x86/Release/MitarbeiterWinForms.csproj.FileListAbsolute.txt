@@ -1,0 +1,3 @@
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Release\MITARBEITER.GUI.FormVerwaltung.resources
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Release\MITARBEITER.GUI.Properties.Resources.resources
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterGUI\obj\x86\Release\MitarbeiterWinForms.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Debug\MitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterLogic\obj\x86\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\MitarbeiterLogic\obj\x86\Debug\MitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Binary\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Binary\Debug\MitarbeiterLogic.pdb

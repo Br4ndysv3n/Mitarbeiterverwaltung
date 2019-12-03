@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><MitarbeiterListe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Mitarbeiter><Mitarbeiter><Person><Personalnummer>1</Personalnummer><Titel>Mr</Titel><Vorname>John</Vorname><Nachname>Doe</Nachname></Person><Abteilung>Entwicklung</Abteilung></Mitarbeiter></Mitarbeiter></MitarbeiterListe>

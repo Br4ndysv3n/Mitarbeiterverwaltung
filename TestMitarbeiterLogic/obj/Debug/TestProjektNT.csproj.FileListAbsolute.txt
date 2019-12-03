@@ -1,0 +1,8 @@
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\TestProjektNT.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\TestProjektNT.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\obj\Debug\TestProjektNT.csprojResolveAssemblyReference.cache
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\obj\Debug\TestProjektNT.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\obj\Debug\TestProjektNT.pdb
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\Ninject.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Documents\Visual Studio 2010\Projects\ProjektNT\TestProjektNT\bin\Debug\MitarbeiterLogic.pdb

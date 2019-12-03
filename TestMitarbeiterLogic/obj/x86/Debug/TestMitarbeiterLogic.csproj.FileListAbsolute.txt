@@ -1,0 +1,7 @@
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Debug\TestMitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\x86\Debug\TestMitarbeiterLogic.csprojResolveAssemblyReference.cache
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\x86\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\TestMitarbeiterLogic\obj\x86\Debug\TestMitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Binary\Debug\TestMitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Binary\Debug\TestMitarbeiterLogic.pdb

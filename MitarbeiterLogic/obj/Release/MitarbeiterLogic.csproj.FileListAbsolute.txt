@@ -1,0 +1,9 @@
+C:\Mitarbeiterverwaltung\Binary\Release\MitarbeiterLogic.dll
+C:\Mitarbeiterverwaltung\Binary\Release\MitarbeiterLogic.pdb
+C:\Mitarbeiterverwaltung\MitarbeiterLogic\obj\Release\MitarbeiterLogic.dll
+C:\Mitarbeiterverwaltung\MitarbeiterLogic\obj\Release\MitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\Binary\Release\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\Binary\Release\MitarbeiterLogic.pdb
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\MitarbeiterLogic\obj\Release\MitarbeiterLogic.csprojResolveAssemblyReference.cache
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\MitarbeiterLogic\obj\Release\MitarbeiterLogic.dll
+C:\Users\s.brand.PAARI\Desktop\Mitarbeiterverwaltung\Mitarbeiterverwaltung\MitarbeiterLogic\obj\Release\MitarbeiterLogic.pdb
